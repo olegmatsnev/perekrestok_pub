@@ -5,5 +5,5 @@ otherwise tells you so.
 
 Before using the script, one has to create an account at perekrestok.ru.
 
-The script uses Python keyring library to securely store credentials, so you'll need to add you login-password pair to the keyring 
+The script uses Python keyring library (https://pypi.org/project/keyring/) to securely store credentials, so you'll need to add you login-password pair to the keyring 
 and replace "email@address" with the address used to sign up to perekrestok.ru.
