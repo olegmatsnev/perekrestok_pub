@@ -1,6 +1,6 @@
 This script is meant to be executed from the command line. 
 
-It checks perekrestok.ru, an online supermarket, for available delivery slots. If such slots are available, it prints when's the next one, 
+It checks perekrestok.ru, an online supermarket, for available delivery slots. If such slots exist, it prints when's the next one, 
 otherwise tells you so.
 
 Before using the script, one has to create an account at perekrestok.ru.
